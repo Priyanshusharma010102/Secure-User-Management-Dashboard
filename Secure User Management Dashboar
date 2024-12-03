@@ -1,0 +1,11 @@
+src/
+├── components/
+│   ├── AuthForm.tsx
+│   ├── Modal.tsx
+│   └── ProtectedRoute.tsx
+├── pages/
+│   ├── Dashboard.tsx
+│   ├── SignIn.tsx
+│   └── SignUp.tsx
+├── stores/
+│   └── userStore
